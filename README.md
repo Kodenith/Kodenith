@@ -9,7 +9,6 @@
  <img src="https://github.com/user-attachments/assets/f7d0a9f6-787f-4c5d-ba69-7d41900e6f00">
  <img src="https://github.com/user-attachments/assets/5cd5e834-e10e-4fc8-87c4-38270f461b44">
  <img src="https://github.com/user-attachments/assets/43acc110-6398-4f24-9a7e-b1daaab934d7">
- <img src="https://github.com/user-attachments/assets/00ffb133-3f3f-45bb-a0e2-e24a464a56d5">
 </div>
 <br>
 IF you are reading this, you are on my profile! who would have guessed.. My name is <strong>Kodenith</strong>, or <strong>Koden</strong> for short.
