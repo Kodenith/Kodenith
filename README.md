@@ -11,7 +11,7 @@
   <img src="https://github.com/user-attachments/assets/9ad7755a-63ca-4615-9f43-e838fc049878"> <!-- PURPLE -->
 </div>
 <br>
-fF you are reading this, you are on my profile! who would have guessed.. My name is <strong>Kodenith</strong>, or <strong>Koden</strong> for short.
+If you are reading this, you are on my profile! who would have guessed.. My name is <strong>Kodenith</strong>, or <strong>Koden</strong> for short.
 
 i'm a *16 year old furry* that comes up with certainly interesting ideas, i hope to and will learn to create awesome stuff!
 
