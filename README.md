@@ -49,3 +49,5 @@ I mostly make devlogs of games i work on, the slimes at the top are from a proje
 **All Links:**
 * [Youtube](https://www.youtube.com/@koden_the_synth)
 * [TikTok](https://www.tiktok.com/@kodenthesynth)
+*
+[Stack Overflow](https://stackoverflow.com/users/30982166/)
